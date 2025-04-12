@@ -11,10 +11,11 @@ console load ninz/5bgvreal/95bfunnier astart
 Read, desertseeker, Start
 ***S
   10,L,J,G
-
-   4,L
+   2,L
    3,L,J,G
-   8,L
+   2,R,J
+   7,L
+   1
    6,R,D,X
    1,L,J
    6,L
